@@ -20,6 +20,7 @@ The aim is to provide a supremely rigid toolhead for both Monolith and Tradition
 - Goliath/CHC XL + MZE (Mega)
 
 **Development is ongoing and we are open to requests for future hotend/carriage support.**
-
+<br/>
+<br/>
 > [!NOTE]  
 > Attribution goes out to Chirpy and his [Yavoth](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth) Toolhead for giving us a starting point to bring us to where we are today.
